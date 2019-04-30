@@ -1,0 +1,104 @@
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:38",
+  "EndTime": "2019-04-28 13:41:38",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 0.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:38",
+  "EndTime": "2019-04-28 13:41:38",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 15.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:38",
+  "EndTime": "2019-04-28 13:41:38",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 15.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:39",
+  "EndTime": "2019-04-28 13:41:39",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 15.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:40",
+  "EndTime": "2019-04-28 13:41:40",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 0.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:40",
+  "EndTime": "2019-04-28 13:41:40",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 0.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:40",
+  "EndTime": "2019-04-28 13:41:40",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 0.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
+{
+  "IsSuccess": false,
+  "Data": {
+    "RelationID": ""
+  },
+  "RedirectUrl": null,
+  "StartTime": "2019-04-28 13:41:41",
+  "EndTime": "2019-04-28 13:41:41",
+  "ErrorCode": -1,
+  "ErrorMsg": "不在抢购时间内",
+  "Times": 15.0,
+  "RemoteIp": "60.195.40.2"
+}bool(true)
