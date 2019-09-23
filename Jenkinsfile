@@ -16,7 +16,8 @@ pipeline {
     stage('Prepare') {
         steps {
               echo "build_tag: ${rdtag}"
-              sh "git branch date +%s  ${rdtag}"
+              sh "date=date +%s && git branch $date  ${rdtag} && git checkout $date"
+              sh "git branch"
         }
     }
 
