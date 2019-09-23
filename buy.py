@@ -45,6 +45,10 @@ while i < tasks_number:
     t.start()
     t.start()
     i +=1
+    i +=1
+    i +=1
+    i +=1
+    i +=1
 
 
 print(1111)
