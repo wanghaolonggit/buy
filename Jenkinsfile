@@ -16,8 +16,7 @@ pipeline {
     stage('Prepare') {
         steps {
               echo "build_tag: ${rdtag}"
-              sh 'chmod u+x buy.sh'
-              sh "./buy.sh"
+              sh "git chechout ${rdtag}"
               sh "git branch"
         }
     }
