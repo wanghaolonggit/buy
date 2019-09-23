@@ -15,7 +15,7 @@ pipeline {
 
     stage('Prepare') {
         steps {
-              echo "build_tag: ${params.environment}"
+              echo "build_tag: ${rdtag}"
               sh "git branch date +%s  ${rdtag}"
         }
     }
