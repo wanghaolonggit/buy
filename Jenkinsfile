@@ -16,7 +16,7 @@ pipeline {
     stage('Prepare') {
         steps {
               echo "build_tag: ${rdtag}"
-              sh "git checkout ${rdtag}"
+              sh "git fetch && git checkout ${rdtag}"
               sh "git branch"
         }
     }
