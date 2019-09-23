@@ -41,6 +41,9 @@ print tasks_number
 while i < tasks_number:
     t = threading.Thread(target=test(i))
     t.start()
+    t.start()
+    t.start()
+    t.start()
     i +=1
 
 
