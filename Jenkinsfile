@@ -1,10 +1,18 @@
 pipeline {
   agent any
+
   stages {
-    stage('as') {
-      steps {
-        build(job: 'aaa', propagate: true, wait: true)
-      }
+    stage('Prepare') {
+        steps {
+                echo "build_tag: ${params.environment}"
+             }
     }
-  }
+
+    stage('Prepare') {
+        steps {
+              echo "build_tag: ${params.environment}"
+              sh "git branch date +%s  ${rdtag}"
+        }
+    }
+
 }
