@@ -18,6 +18,9 @@ pipeline {
               echo "build_tag: ${rdtag}"
               sh "git branch"
               sh "git status"
+                            sh "git tag"
+
+              sh "git fetch --tags"
               sh "git tag"
 
               sh "git checkout . && git fetch && git pull && git checkout ${rdtag}"
