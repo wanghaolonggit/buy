@@ -11,11 +11,7 @@ pipeline {
   }
 
   stages {
-    stage('Prepare') {
-        steps {
-                echo "build_tag: ${rdtag}"
-             }
-    }
+
 
     stage('Prepare') {
         steps {
